@@ -17,3 +17,6 @@ to get this to work. download from https://github.com/FabLabBerlin/processing-an
 
 have fun.
 
+
+![screenshot](https://raw.githubusercontent.com/wiki/FabLabBerlin/Fablab3D/media/Screenshot_2014-11-10-14-54-55.png)
+
