@@ -1,5 +1,7 @@
 ### Fablab3d for Android
 
+[![Join the chat at https://gitter.im/FabLabBerlin/Fablab3D](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FabLabBerlin/Fablab3D?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a 3D generator for two shapes a Flower and a Waveform shaped trinked, shapes are generated with audio input.
 
 The shapes are sent out as OBJ via email ( check Mail.pde for your account information ).
